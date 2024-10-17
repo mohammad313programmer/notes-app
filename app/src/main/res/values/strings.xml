@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NoteBook</string>
+    <string name="recycle_bin">سطل زباله</string>
+    <string name="title">عنوان</string>
+    <string name="detail">توضیحات</string>
+    <string name="save">ذخیره</string>
+    <string name="cancel">بازگشت</string>
+    <string name="todo">todo</string>
+    <string name="version">v1.0</string>
+    <string name="by_rezvan">By:Rezvan</string>
+    <string name="no_notes">یادداشتی وجود ندارد!</string>
+    <string name="todo1">todo1</string>
+</resources>

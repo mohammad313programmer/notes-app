@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="white100">#EEF2F0</color>
+    <color name="gray">#858585</color>
+    <color name="Ferozeh100">#63BDB5</color>
+    <color name="Ferozeh200">#15696F</color>
+    <color name="black100">#282828</color>
+    <color name="red">#800c1f</color>
+</resources>
